@@ -9,9 +9,9 @@
   year: "2020"
   filepath: Shadowtutor.pdf
   labels:
-    - mobile
-    - mine
     - inference
+    - mine
+    - mobile
   state:
     - Read: "2021-07-31 03:48:24 PM"
   notepath: Shadowtutor.md
@@ -122,8 +122,8 @@
   year: "2021"
   filepath: FedScale-Benchmarking-Model-and-System-Performance-of-Federated-Learning.pdf
   labels:
-    - federated
     - training
+    - federated
   state:
     - Added: "2021-08-11 04:55:15 PM"
   notepath: ~
